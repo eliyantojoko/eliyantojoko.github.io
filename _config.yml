@@ -22,7 +22,7 @@ repository               : "eliyantojoko/eliyantojoko.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Joko Eliyanto.png"
   name             : "Joko Eliyanto, S.Si., M.Pd"
   pronouns         : # example: "she/her"  
   bio              : "Mathematicians and Data Scientist"
